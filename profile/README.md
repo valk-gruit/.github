@@ -14,13 +14,13 @@ Here are some of the projects I've been working on:
 
 ### Valkarin
 
-![Valkarin](https://github.com/valkarinc/)
+[Valkarin](https://github.com/valkarinc/)
 
 An ambitious MMORPG project aiming to deliver a unique gaming experience. [Explore the projects](https://github.com/valkarinc/).
 
 ### Gruit Hosting Platform
 
-![Gruit](https://github.com/valkarinc/gruit/)
+[Gruit](https://github.com/valkarinc/gruit/)
 
 A hosting platform designed to support and deploy game servers efficiently. [Learn more](https://github.com/valkarinc/gruit).
 
